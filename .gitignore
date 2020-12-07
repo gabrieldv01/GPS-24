@@ -1,0 +1,5 @@
+/venv/
+/htmlcov/
+/.coverage
+/.idea
+/__pycache__/
