@@ -18,7 +18,7 @@ jobs:
     
     steps:
     - name: Run Python application in Docker
-      uses: docker://python-app
+      uses: docker://my-python-app
     - uses: actions/checkout@v3
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
